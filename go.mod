@@ -1,4 +1,4 @@
-module typedSyncMap
+module sync
 
 go 1.23
 
